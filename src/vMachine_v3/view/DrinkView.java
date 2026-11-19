@@ -1,4 +1,4 @@
-package view;
+package vMachine_v3.view;
 
 public class DrinkView {
 }
